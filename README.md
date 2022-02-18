@@ -46,3 +46,6 @@
 - the new Just-in-Time engine squeezed into a CDN script that runs right in the browser.
 ### Tons of other utilities
 - including support for touch-action, will-change, flex-basis, text-indent, scroll-behavior, and more.
+
+# Why use tailwind CSS?
+- It is modern framework used with latest technologies to build scalable and beautiful apps.
